@@ -1,4 +1,5 @@
 Just a simple Perceptron that decide if the generated figuare is a square or a circle.
+Perceptron: https://en.wikipedia.org/wiki/Perceptron
 
 Made entirely in Java.
 
